@@ -115,8 +115,6 @@ function displayResult(data) {
             <p><strong>Rank:</strong> ${data.student.rank}</p>
             <p><strong>Obtained Marks:</strong> ${obtainedMarks}</p>
             <p><strong>Total Marks:</strong> ${totalMarks}</p>
-            <p><strong>Attendance:</strong> ${data.student.attendance}</p>
-            <p><strong>Total Working Days:</strong> ${data.student.total_working_days}</p>
         </div>
     `;
 
